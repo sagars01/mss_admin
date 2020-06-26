@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "mysquarespace-001": {
+      "hosting": {
+        "admin": [
+          "mysquarespace-001"
+        ]
+      }
+    }
+  }
+}
